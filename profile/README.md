@@ -1,3 +1,3 @@
 ## Hey, Welcome to rahul.dev 👋
 
-This is personal organisation profile where I share my open source projects and products.
+Official organisation page of [!Rahul Vashishtha](https://github.com/rahul-vashishtha)
