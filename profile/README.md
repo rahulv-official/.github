@@ -1,3 +1,3 @@
-## Hey, Welcome to Rinnegan 👋
+## Hey, Welcome to rahul.dev 👋
 
-![Rinnegan Logo](https://github.com/RinneganTech/.github/blob/4f4f7df1bfefb4215061182c7ba432ffe8a6cb5b/Logo%20Horizontal%201.png)
+This is personal organisation profile where I share my open source projects and products.
