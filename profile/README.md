@@ -26,58 +26,6 @@ Official organisation page of [Rahul Vashishtha](https://github.com/rahul-vashis
 
 ![Rahul's Code Streak](https://gh-streak-stats.rahulv.dev/?user=rahul-vashishtha&theme=dark&hide_border=true)
 
-## More About Me...
-
-```typescript
-const aboutMe = {
-  pronouns: "He" | "Him",
-  code: ["C", "C++", "C#", "JavaScript", "TypeScript", "Java", "PHP", "Kotlin", "Rust", "Go"],
-  askMeAbout: [
-    "Desktop Development",
-    "Web Development",
-    "Mobile Development",
-    "Game Development",
-    "Robotics",
-    "Internet of Things",
-    "Playing Music Instruments",
-  ],
-  awardsAndHonours : [
-    "iB Hubs Start Up School’18 Alumni",
-    "Awarded as National Level Gold Medalist in Software Development by UP Council of Science & Technology in 2016",
-  ],
-  communities: {
-    admin: [
-      "Flutter India Telegram Community (https://t.me/FlutterIndia)",
-      "Deno Telegram Community (https://t.me/denolang)",
-      ],
-  },
-  technologies: {
-    mobileApp: ["Xamarin", "Flutter", "Kotlin"],
-    desktopApp: [".Net Framework", ".Net Core", "Qt with C++", "Electron", "NodeGUI"],
-    webFrontEnd: {
-      typescript: ["VueJS", "NuxtJS"],
-      css: ["materialize", "vuetify", "bootstrap", "chakra", "tailwind"],
-    },
-    webBackEnd: {
-      typescript: ["Node", "Fastify", "Express", "Deno"],
-      php: ["core", "laravel"],
-    },
-    devOps: ["AWS", "Docker🐳", "Apache", "Digital Ocean", "Nginx"],
-    databases: ["MongoDB", "Postgres", "MySql", "Sqlite"],
-    hardware: ["Arduino", "RaspberryPi", "Johnny Five", "Beagle Bone"],
-    misc: ["Firebase", "Socket.IO", "MQTT", "Open-CV", "WordPress", "PixiJS"],
-  },
-  architecture: [
-    "Progressive Web Applications",
-    "Single Page Applications",
-    "Desktop Applications",
-    "Mobile Applications",
-    "Electronics and Robotics Applications"
-    "Serverless Architecture",
-  ],
-};
-```
-
 <em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
 
 ## Connect with me
